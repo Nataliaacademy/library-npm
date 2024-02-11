@@ -1,0 +1,22 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "библеотека",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nataliaacademy/library-npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "natalia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nataliaacademy/library-npm/issues"
+  },
+  "homepage": "https://github.com/Nataliaacademy/library-npm#readme"
+}
